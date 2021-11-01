@@ -1,0 +1,36 @@
+{
+  "name": "zeropacity_app",
+  "version": "0.1.0",
+  "private": true,
+  "main": "function.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@albedo-link/intent": "^0.11.2",
+    "@chakra-ui/icons": "^1.0.15",
+    "@chakra-ui/react": "^1.6.7",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@fontsource/open-sans": "^4.5.0",
+    "@fontsource/raleway": "^4.5.0",
+    "emotion-theming": "^11.0.0",
+    "firebase": "^9.0.2",
+    "firebase-admin": "^9.11.1",
+    "firebase-functions": "^3.15.6",
+    "framer-motion": "^4.1.17",
+    "next": "^11.1.2",
+    "nookies": "^2.5.2",
+    "react": "^17.0.2",
+    "react-dom": "17.0.2",
+    "recoil": "^0.4.1",
+    "stellar-sdk": "^8.3.0"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2"
+  }
+}
